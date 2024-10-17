@@ -1,4 +1,5 @@
 Data Analyst | R Programmer | Laboratory Scientist | Insect Enthusiast
+
 I'm passionate about creating efficient, scalable solutions for data analysis, automation, and visualization. With a background in microbiology, mosquito-borne viruses, HIV-1 quality management, and bioinformatics, I’ve developed dynamic Shiny dashboards, automated workflows, and built custom analytical pipelines. I’m also deeply interested in entomology, particularly mosquitoes, ticks, and other insects. My expertise spans across R, ggplot, VBA, and bioinformatics, with a focus on turning complex data into actionable insights. Whether it’s optimizing lab processes, analyzing insect populations, or developing interactive plots with ggiraph, I’m always looking for new ways to innovate and streamline processes.
 
 <!--
