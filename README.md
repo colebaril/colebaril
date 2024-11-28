@@ -1,10 +1,11 @@
+<!--
 📈 Data Analyst | 💻 R Programmer | 🔬 Laboratory Scientist | 🦟 Entomologist
 
-<!--
+
 **colebaril/colebaril** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 
 - 🔭 I’m currently working on collecting product price data via webscraping
 - 🌱 I’m currently learning other non-R data viz platforms (e.g., Power BI)
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I caught and identified over 300,000 mosquitoes over two years
 
+-->
